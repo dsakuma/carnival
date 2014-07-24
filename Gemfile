@@ -25,6 +25,7 @@ gem 'will_paginate'
 gem 'wicked_pdf'
 gem 'omniauth-facebook'
 gem 'omniauth-google-oauth2'
+gem 'sass-rails'
 
 group :development do
   gem 'byebug'
