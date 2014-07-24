@@ -1182,12 +1182,12 @@ li.sign_in{
   padding-left: 0px;
 }
 
-.sorting { background: url('sort_both.png') no-repeat center left; }
-.sorting_asc { background: url('sort_asc.png') no-repeat center left; }
-.sorting_desc { background: url('sort_desc.png') no-repeat center left; }
+.sorting { background: url(sort_both.png) no-repeat center left; }
+.sorting_asc { background: url(sort_asc.png) no-repeat center left; }
+.sorting_desc { background: url(sort_desc.png) no-repeat center left; }
 
-.sorting_asc_disabled { background: url('sort_asc_disabled.png') no-repeat center left; }
-.sorting_desc_disabled { background: url('sort_desc_disabled.png') no-repeat center left; }
+.sorting_asc_disabled { background: url(sort_asc_disabled.png) no-repeat center left; }
+.sorting_desc_disabled { background: url(sort_desc_disabled.png) no-repeat center left; }
 
 #sortable > li > a {
   float: right;
